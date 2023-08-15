@@ -1,4 +1,4 @@
-package main
+package ds
 
 import (
 	"github.com/adelapazborrero/ds/queue"
